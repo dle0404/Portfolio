@@ -1,0 +1,5 @@
+/portfolio
+│
+├── index.html  (Main page)
+├── style.css   (Styling for the page)
+└── assets/     (Folder for images or additional files)
